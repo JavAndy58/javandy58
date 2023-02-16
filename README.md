@@ -1,7 +1,7 @@
 ![Header image](https://raw.githubusercontent.com/JavAndy58/javandy58/main/assets/header.png)
 
 
-## 💬 Мои проекты
+### Мои проекты:
 <ul>
   <li>
     <strong><a href="https://github.com/JavAndy58/CarShop">"CRM автомагазина (бэкенд)"</a></strong>Spring-boot, Rest API, PostgreSQL, JUnit
@@ -27,26 +27,15 @@
   
 </ul>
 
+### Языки и инструменты:
+
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+
+<br>
 
 
 
+### Социальные сети:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Javandii)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](linkedin.com/in/андрей-громов-301274266)
 
-
-
-
-
-
-<!--
-**JavAndy58/javandy58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
