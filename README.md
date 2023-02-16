@@ -29,13 +29,20 @@
 
 ### Языки и инструменты:
 
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+[![alt-text](https://img.shields.io/badge/-telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/Javandii)&nbsp;&nbsp;
+
+[![alt-text] ((https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>))
+
+
+
 
 <br>
 
 
 
 ### Социальные сети:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Javandii)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](linkedin.com/in/андрей-громов-301274266)
+
+[![alt-text](https://img.shields.io/badge/-telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/Javandii)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-linkedin-0e76a8?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/андрей-громов-301274266)&nbsp;&nbsp;
+
 
