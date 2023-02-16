@@ -4,7 +4,7 @@
 ### Мои проекты:
 <ul>
   <li>
-    <strong><a href="https://github.com/JavAndy58/CarShop">"CRM автомагазина (бэкенд)"</a></strong>Spring-boot, Rest API, PostgreSQL, JUnit
+    <strong><a href="https://github.com/JavAndy58/CarShop">"CRM автомагазина (бэкенд)"</a></strong>Spring, Rest, PostgreSQL, JUnit, Mapstruct, Apache.poi, Docker
   </li>
   <li>
     <strong><a href="https://github.com/JavAndy58/car-shop-app">"CRM автомагазина (фронтэнд)"</a></strong>Java Script, ReactJS
