@@ -29,16 +29,15 @@
 
 ### Языки и инструменты:
 
-[![alt-text](https://img.shields.io/badge/-telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/Javandii)&nbsp;&nbsp;
-
-[![alt-text] ((https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>))
-
-
-
-
-<br>
-
-
+[![alt-text](https://img.shields.io/badge/-Java-0088CC?style=flat&logo=Java&logoColor=white)](https://t.me/Javandii)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)](https://t.me/Javandii)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)](https://t.me/Javandii)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white)](https://t.me/Javandii)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)](https://t.me/Javandii)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-ApachMaven-C71A36?style=flat&logo=ApacheMaven&logoColor=white)](https://t.me/Javandii)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white)](https://t.me/Javandii)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)](https://t.me/Javandii)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)](https://t.me/Javandii)&nbsp;&nbsp;
 
 ### Социальные сети:
 
