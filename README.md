@@ -1,4 +1,5 @@
-[![Header](https://github.com/JavAndy58/javandy58/blob/master/assets/header.png)]
+![Header image](https://raw.githubusercontent.com/JavAndy58/javandy58/main/assets/header.png)
+
 
 ## 💬 Мои проекты
 <ul>
